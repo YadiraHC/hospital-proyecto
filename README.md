@@ -10,10 +10,9 @@ Este es un sistema de tipo hospital que permite la gestión de clientes, doctore
 
 ## Captura de Pantalla
 
-![Dashboard del Sistema de Gestión de Citas](![image](https://github.com/user-attachments/assets/64afbcb3-fcea-4c66-96f9-a7f54999bc92))
+![Dashboard del Sistema de Gestión de Citas](images/image.png)
 
-> Nota: Asegúrate de que la imagen esté en el mismo repositorio y reemplaza `![image](https://github.com/user-attachments/assets/3c691e94-86c9-4e19-bac4-575d04c9f4e2)
-` con la ruta correcta de la imagen en tu proyecto.
+> Nota: La imagen debe estar en la carpeta `images` en el mismo repositorio para que se muestre correctamente.
 
 ## Tecnologías Utilizadas
 
