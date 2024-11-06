@@ -8,11 +8,20 @@ Este es un sistema de tipo hospital que permite la gestión de clientes, doctore
 - **Consultas Médicas**: Proporciona un sistema para realizar y documentar consultas.
 - **Administración de Personal y Clientes**: Gestión de usuarios, incluyendo roles de doctores, administradores y pacientes.
 
-## Captura de Pantalla
+## 
 
 ![Dashboard del Sistema de Gestión de Citas](images/image.png)
 
-> Nota: La imagen debe estar en la carpeta `images` en el mismo repositorio para que se muestre correctamente.
+> Dashboard para el personal
+
+![Agendar Cita](images/image2.png)
+> Agendar Cita
+
+![Datos](images/image3.png)
+> Imprecion de Datos
+
+![Receta Digital](images/image4.png)
+> Reseta Medica Digial
 
 ## Tecnologías Utilizadas
 
