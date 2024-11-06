@@ -17,7 +17,7 @@ Este es un sistema de tipo hospital que permite la gestión de clientes, doctore
 ![Agendar Cita](images/image2.png)
 > Agendar Cita
 
-![Datos](images/image3.png)
+![Datos](images/image3.jpeg)
 > Imprecion de Datos
 
 ![Receta Digital](images/image4.png)
